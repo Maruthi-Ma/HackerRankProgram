@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sum of Array", "Sum of Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arraysum", "Arraysum\Arraysum.csproj", "{ECFD0F5D-58FC-47A8-A6E9-E9B2177A13F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Student Grade", "Student Grade", "{F3CDC49C-60FD-49C7-B4CE-6578F6C59A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrade", "StudentGrade\StudentGrade.csproj", "{F945420F-DCE1-4B22-87C7-34D427E0B77E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{ECFD0F5D-58FC-47A8-A6E9-E9B2177A13F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECFD0F5D-58FC-47A8-A6E9-E9B2177A13F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECFD0F5D-58FC-47A8-A6E9-E9B2177A13F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F945420F-DCE1-4B22-87C7-34D427E0B77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F945420F-DCE1-4B22-87C7-34D427E0B77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F945420F-DCE1-4B22-87C7-34D427E0B77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F945420F-DCE1-4B22-87C7-34D427E0B77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7565C34D-1368-44DD-9D94-B0150E8F42FF} = {48663B45-229D-4C6C-86D9-1F62E4760F1A}
 		{ECFD0F5D-58FC-47A8-A6E9-E9B2177A13F5} = {EC3153F9-ECBF-44E5-99C3-73804EF1128E}
+		{F945420F-DCE1-4B22-87C7-34D427E0B77E} = {F3CDC49C-60FD-49C7-B4CE-6578F6C59A51}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {729E2CFF-6A84-4F3B-B69D-C1405640D16F}
