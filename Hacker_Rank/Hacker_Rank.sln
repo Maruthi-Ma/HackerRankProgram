@@ -35,6 +35,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Time Conversion", "Time Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{B0547DBE-F634-4850-A808-D28B82B36F41}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Beautiful Days at the Movies", "Beautiful Days at the Movies", "{6767207E-8D52-4D45-8F5E-D98AA10CD220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful Days at the Movies", "Finding DIgit\Beautiful Days at the Movies.csproj", "{0C264188-9C3D-4662-BFA3-8EA1B47C1642}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{B0547DBE-F634-4850-A808-D28B82B36F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0547DBE-F634-4850-A808-D28B82B36F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0547DBE-F634-4850-A808-D28B82B36F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C264188-9C3D-4662-BFA3-8EA1B47C1642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C264188-9C3D-4662-BFA3-8EA1B47C1642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C264188-9C3D-4662-BFA3-8EA1B47C1642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C264188-9C3D-4662-BFA3-8EA1B47C1642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +94,7 @@ Global
 		{3E1B920F-418C-4FC8-A769-72B546C8029C} = {E0AD0580-5782-41E4-8D1F-8BC2A8579BB9}
 		{5C6FDB4D-6772-4457-90FB-1E85C4F8834F} = {CC1E7A90-4F41-4528-BB9A-ED4ADF94255A}
 		{B0547DBE-F634-4850-A808-D28B82B36F41} = {57B84ABB-4CEE-46FC-A5CC-A81288B2C6A0}
+		{0C264188-9C3D-4662-BFA3-8EA1B47C1642} = {6767207E-8D52-4D45-8F5E-D98AA10CD220}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {729E2CFF-6A84-4F3B-B69D-C1405640D16F}
